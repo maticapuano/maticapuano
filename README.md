@@ -1,16 +1,45 @@
-### Hi there 👋
+<h2>Hi i'am Matias! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</em></p>
 
-<!--
-**maticapuano/maticapuano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-Here are some ideas to get you started:
+```javascript
+const maticapuano = {
+  pronouns: "capu" | "Matt",
+  code: ["Javascript", "Typescript", "C#", "php", "Python"],
+  askMeAbout: [
+    "web developer",
+    "backend developer",
+    "mobile developer",
+    "tech",
+    "DevOps",
+  ],
+  technologies: {
+    mobileApp: ["Android App"],
+    frontEnd: {
+      js: ["React", "Angular"],
+      css: ["styled-components", "materialize", "scss", "bootstrap", "ant"],
+    },
+    backEnd: {
+      js: ["node", "express"],
+      python: ["flask"],
+    },
+    devOps: ["AWS", "Docker🐳", "Kubernates", "Route53", "Nginx"],
+    databases: ["mongo", "MySql", "sqlite"],
+    misc: ["Socket.IO", "selenium", "open-cv", "php"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+    "Micro services Architecture",
+  ],
+  currentProject:
+    "I am developing a web system based on micro-services for invoicing Mexican invoicing",
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
