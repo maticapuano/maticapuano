@@ -6,7 +6,7 @@
 
 ```javascript
 const maticapuano = {
-  pronouns: "capu" | "Matt",
+  pronouns: "capu" | "Matias",
   code: ["Javascript", "Typescript", "C#", "php"],
   askMeAbout: [
     "web developer",
@@ -14,17 +14,16 @@ const maticapuano = {
    "DevOps",
   ],
   technologies: {
-    mobileApp: ["React native"],
     frontEnd: {
       js: ["React"],
-      css: ["styled-components", "materialize", "scss", "bootstrap", "ant"],
+      css: ["styled-components", "materialize", "scss", "bootstrap",[styled-component"],
     },
     backEnd: {
       js: ["node", "express"],
     },
     devOps: ["AWS", "Docker🐳", "Kubernates", "Route53", "Nginx"],
     databases: ["mongo", "MySql", "sqlite"],
-    misc: ["Socket.IO", "php"],
+    misc: ["Socket.IO"],
   },
   architecture: [
     "Progressive web applications",
