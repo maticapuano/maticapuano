@@ -7,22 +7,23 @@
 ```javascript
 const maticapuano = {
   pronouns: "capu" | "Matias",
-  code: ["Javascript", "Typescript", "C#", "php"],
+    code: ["Javascript", "Typescript", "C#", "PHP"],
   askMeAbout: [
-    "web developer",
-    "backend developer",
-   "DevOps",
+    "Backend developer",
+    "Front-End Developer",
+    "DevOps",
   ],
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["styled-components", "materialize", "scss", "bootstrap",[styled-component"],
+      css: ["styled-components", "materialize", "scss"],
     },
     backEnd: {
-      js: ["node", "express"],
+      js:  ["node", "express"],
+      asp: ["c#"]
     },
-    devOps: ["AWS", "Docker🐳", "Kubernates", "Route53", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite"],
+    devOps: ["AWS", "Docker 🐳", "Kubernates", "Route53", "Nginx"],
+    databases: ["mongo", "Mysql"],
     misc: ["Socket.IO"],
   },
   architecture: [
