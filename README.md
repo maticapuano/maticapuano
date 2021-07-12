@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 🔭 I’m currently working on [@capujs/core](https://github.com/capujs/core)
-
 - 📫 How to reach me **maticapuano97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
