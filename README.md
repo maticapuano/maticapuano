@@ -17,7 +17,7 @@
   const me: Person = {
     name: 'Matías Capuano',
     age: 23,
-    country: 'Mexico',
+    country: 'Argentine',
     profession: 'Backend developer',
     skills: ['Typescript', 'Node.js', 'postgres','mysql','mongodb','redis','solid','desing-patterns'],
     devops: ['docker','k8s'],
