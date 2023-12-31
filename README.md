@@ -61,6 +61,6 @@ printPerson(person);
 
 If you want to get in touch, you can reach me at:
 
-- [LinkedIn](https://www.linkedin.com/in/matiascapuano/)
+- [LinkedIn](https://www.linkedin.com/in/matias-capuano/)
 - [Email](mailto:maticapuano97@gmail.com)
 - [Phone](https://wa.me/542252416161)
