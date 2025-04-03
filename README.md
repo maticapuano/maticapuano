@@ -1,66 +1,54 @@
-# About Me
+# Matías Capuano 👋
 
-Hi there! My name is Matías Capuano, and I'm a Backend Developer from Argentina. I have experience working with a variety of technologies, including Node.js, TypeScript, NestJS, PostgreSQL, Docker, Redis, AWS, Kubernetes, Git, Terraform, Serverless, Microservices, and Clean Architecture.
+## Backend Software Engineer
 
-## Skills and Experience
+I am a passionate backend software engineer specializing in building scalable, efficient, and reliable systems. My focus is on developing robust architectures that ensure optimal performance and exceptional user experiences.
 
-Here's an example of some of the skills I have:
+## 🛠️ Technologies & Expertise
 
-```typescript
-export type Person = {
-  name: string;
-  age: number;
-  country: string;
-  profession: string;
-  skills: string[];
-  otherSkills: string[];
-};
+### Backend Development
 
-const person: Person = {
-  name: 'Matías Capuano',
-  age: 25,
-  country: 'argentina',
-  profession: 'Backend Developer',
-  skills: [
-    'Node.js',
-    'TypeScript',
-    'NestJS',
-    'PostgreSQL',
-    'Docker',
-    'Redis',
-    'AWS',
-    'Kubernetes',
-    'Git',
-    'Terraform',
-    'Serverless',
-    'Microservices',
-    'Clean Architecture',
-  ],
-  otherSkills: ['React', 'Next.js'],
-};
+-   **Languages:** TypeScript/Javascript
+-   **Frameworks:** Express.js, NestJS
+-   **Architecture:** Microservices, Event-driven, REST APIs
 
-const toSentence = (array: string[]): string => {
-  const last = array.pop();
+### Databases & Data Management
 
-  return `${array.join(', ')} and ${last}`;
-};
+-   **SQL:** PostgreSQL, Mysql, SqlServer
+-   **NoSQL:** MongoDB
+-   **Caching:** Redis
+-   **Message Brokers:** RabbitMQ, Nats, Redis, Kafka
 
-const printPerson = (person: Person): void => {
-  const { name, age, country, profession, skills } = person;
+### Infrastructure & DevOps
 
-  console.log(`
-    Hi, I'm ${name} from ${country}. I'm ${age} years old and I work as a ${profession}.
-    I have experience working with ${toSentence(skills)}.
-  `);
-};
+-   **Containerization:** Docker
+-   **Orchestration:** Kubernetes
+-   **Infrastructure as Code:** Terraform
+-   **CI/CD:** GitHub Actions, ArgoCD
+-   **Cloud Platforms:** AWS
 
-printPerson(person);
-```
+## 🚀 About Me
 
-## Contact
+I am a dedicated software engineer with a passion for:
 
-If you want to get in touch, you can reach me at:
+-   Designing and implementing scalable architectures
+-   Optimizing system performance
+-   Solving complex backend challenges
+-   Contributing to open-source projects
+-   Sharing knowledge with the developer community
 
-- [LinkedIn](https://www.linkedin.com/in/matias-capuano/)
-- [Email](mailto:maticapuano97@gmail.com)
-- [Phone](https://wa.me/542252416161)
+## 📫 Connect With Me
+
+-   **LinkedIn:** [Matías Capuano](https://linkedin.com/in/matias-capuano)
+
+## 🤝 Let's Collaborate
+
+I'm always open to:
+
+-   New opportunities
+-   Technical discussions
+-   Open-source contributions
+-   Knowledge sharing
+-   Exciting collaborations
+
+Feel free to reach out! 🚀
